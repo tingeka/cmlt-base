@@ -1,9 +1,9 @@
 {
-  "name": "roots/sage",
+  "name": "cmlt/base",
   "type": "wordpress-theme",
   "license": "MIT",
-  "description": "WordPress starter theme with a modern development workflow",
-  "homepage": "https://roots.io/sage/",
+  "description": "WordPress starter theme based on Roots/Sage",
+  "homepage": "https://github.com/tingeka/cmlt-base",
   "authors": [
     {
       "name": "Ben Word",
@@ -30,8 +30,7 @@
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/tingeka/cmlt-base/issues"
   },
   "autoload": {
     "psr-4": {

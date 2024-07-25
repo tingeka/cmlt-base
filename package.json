@@ -1,5 +1,5 @@
 {
-  "name": "sage",
+  "name": "cmlt-base",
   "private": true,
   "browserslist": [
     "extends @roots/browserslist-config"
@@ -19,9 +19,9 @@
     "translate:mo": "wp i18n make-mo ./resources/lang ./resources/lang"
   },
   "devDependencies": {
-    "@roots/bud": "6.20.0",
-    "@roots/bud-tailwindcss": "6.20.0",
-    "@roots/sage": "6.20.0"
+    "@roots/bud": "^6.23.0",
+    "@roots/bud-tailwindcss": "^6.23.0",
+    "@roots/sage": "^6.23.0"
   },
   "dependencies": {}
 }
